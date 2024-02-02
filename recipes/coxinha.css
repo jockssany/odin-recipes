@@ -1,0 +1,21 @@
+body {
+    background-color: #fff;
+    background-image: url(coxinhacomcatchup.jpg);
+    background-repeat: repeat; 
+    background-size: 150px;
+
+
+}
+
+.container {
+    padding: 60px;
+    width: 700px;
+    background-color: #fff;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 10%;
+    margin-left: auto;
+}
+
+img { 
+    padding-left: 50px;}
